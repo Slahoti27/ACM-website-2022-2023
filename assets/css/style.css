@@ -1011,15 +1011,16 @@ section {
   padding: 30px;
   border-radius: 5px;
   background: #fff;
-  transition: 0.5s;
+  transition: 0.3s;
 }
 .team .member .pic {
   overflow: hidden;
   width: 180px;
+  height: 200px;
   border-radius: 50%;
 }
 .team .member .pic img {
-  transition: ease-in-out 0.3s;
+  transition: ease-in-out 0.1s;
 }
 .team .member:hover {
   transform: translateY(-10px);
